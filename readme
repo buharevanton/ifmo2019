@@ -1,0 +1,13 @@
+открываем баш в директории с докер файлом
+создаем образ на основе докер файла
+docker build --rm -t myimage .
+
+создаем контейнер
+docker run --name my_cont -p 1234:1234 -d myimage
+
+чтобы увидеть контейнер
+docker ps (-a)
+
+Далее поменяем, что нибудь в index.html.
+Напишем docker exec -it my_con1t env TERM=xterm nano /data/public/index.html
+
