@@ -1,3 +1,19 @@
 # ifmo2019
-ifmo-2019
-![screenshot of sample](https://user-images.githubusercontent.com/47527927/75772664-72f19c80-5d5d-11ea-91b0-a4ee02bbabdf.png)
+
+TELNET
+https://github.com/buharevanton/ifmo2019/blob/telnet/Readme
+
+MiniHackaton
+https://github.com/buharevanton/ifmo2019/tree/MIniHackaton
+
+Docker
+https://github.com/buharevanton/ifmo2019/tree/docker
+
+Lambda
+https://github.com/buharevanton/ifmo2019/tree/lambda
+
+Bot
+https://github.com/buharevanton/ifmo2019/tree/bot
+
+SCORM
+https://github.com/buharevanton/ifmo2019/tree/SCORM
