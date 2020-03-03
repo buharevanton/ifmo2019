@@ -12,5 +12,5 @@ docker ps (-a)
 
 Далее поменяем, что нибудь в index.html.
 Напишем docker exec -it my_con1t env TERM=xterm nano /data/public/index.html
-![screenshot of sample](https://user-images.githubusercontent.com/47527927/75774192-75092a80-5d60-11ea-94b5-e801ba0824ca.JPG)
+![image](https://user-images.githubusercontent.com/47527927/75774192-75092a80-5d60-11ea-94b5-e801ba0824ca.JPG)
 
